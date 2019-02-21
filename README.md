@@ -1,3 +1,5 @@
+<img alt="npm" src="https://img.shields.io/npm/v/cosmos.svg">
+
 # Cosmos
 A responsive, utility-first SASS framework that expands according to your needs.
 Cosmos contains all the handlers and utilities needed to give you a huge head start implementing your project, even though it being different from other known frameworks in that it is **NOT a UI Kit**(!).
